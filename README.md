@@ -7,7 +7,7 @@ The main purpose of this script is, after entering a domain name, to check the d
 ## Download 
 ```bash 
   pip install python-whois
-  gitclone 
+  gitclone https://github.com/Mstf1112/WHOIS_SCRIPT.git
   python Whois.py
 
 ```
